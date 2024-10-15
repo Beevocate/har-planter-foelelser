@@ -1,17 +1,14 @@
-# Introduktion
+# Introduction
 
 
-## Hvad er bevidsthed?
-
-Indhold
-
-## Kompleks adfærd er ikke det samme som bevidsthed
-
-Indhold
+## What is conciousness?
 
 
-## Bevidsthed, Hjernen og Bevægelse
 
-Indhold
+## Complex behavior isn't the same as conciousness
 
-## Konklusion
+
+## Conciousness, The Brain and Movement
+
+
+## Conclusion
