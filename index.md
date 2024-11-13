@@ -1,4 +1,3 @@
-# AFSNIT 1
 ## Hvad er bevidsthed?
 Bevidsthed er i sin mest grundlæggende form evnen til at have subjektive oplevelser. Med andre ord er bevidstheden det, der gør os i stand til at føle, tænke og være opmærksomme på os selv, vores omgivelser, og relationen imellem disse. Når vi taler om bevidsthed, taler vi om evnen til at være bevidst om noget - for eksempel at være opmærksom på eksterne sanseindtryk, såsom lyde og lys, eller interne sansefænomener, såsom tanker og emotioner. Selv om bevidsthed inkluderer at kunne observere sine omgivelser og reagere på stimulus, indebærer det mere end blot automatiske reaktioner. For eksempel er en automatisk skydedør ikke bevidst, blot fordi at den registrerer, når en person nærmer sig. Bevidsthed er et komplekst fænomen, som ikke blot omhandler adfærd, men også grader af subjektivitet, opmærksomhed og evnen til at reflektere over egne oplevelser og handlinger.
 Selvom man ikke behøver at diskutere, hvorvidt en sensor til en skydedør er bevidst eller ej, kan spørgsmålet gøre én nysgerrig omkring, hvad det egentlig er, der gør bevidsthed muligt. For at forstå bevidsthed, skal vi først se på, hvad forskere mener er nødvendigt for, at det kan opstå:
@@ -12,8 +11,6 @@ Opmærksomhed og beslutningstagning: Bevidste væsener kan ikke bare reagere på
 Selvom planter har fascinerende evner på det biokemiske og fysiologiske plan, som at reagere på lys, berøring eller endda at kommunikere gennem kemiske signaler, er disse processer automatiske. De er resultatet af evolutionære tilpasninger og sker uden nogen form for subjektiv oplevelse. Planter har ingen hjerne, ingen central informations-integration og ingen evne til at fokusere opmærksomt på deres omgivelser. Selv om de er i stand til at overleve og tilpasse sig, er det ikke ensbetydende med, at de har bevidsthed.
 Kort sagt: Bevidsthed kræver et komplekst netværk af neuroner, der kan samle og bearbejde sanseindtryk og skabe en sammenhængende oplevelse af verden. Da planter mangler disse strukturer, er de højst sandsynligt ikke bevidste, selv om de kan udvise imponerende reaktioner på deres miljø.
 
-————————————————-
-# AFSNIT 2
 ## Kompleks adfærd er ikke det samme som bevidsthed
 ### Planter “kommunikerer” ikke som dyr
 Når vi hører ordet “kommunikation,” tænker vi typisk på samtaler mellem mennesker eller dyr, der udveksler signaler og lyde for at overføre information. Men når forskere siger, at planter "kommunikerer," mener de noget helt andet. Planter udsender kemiske signaler til deres omgivelser som svar på forskellige stimuli, som f.eks. skader eller angreb fra insekter. Denne form for signalering er automatisk og kræver ikke bevidsthed.
@@ -31,8 +28,6 @@ Planter har ingen hjerne, så selv om de kan reagere på skade, som når en gren
 
 Kort sagt: Planter udviser imponerende adfærd og reaktioner, men det betyder ikke, at de er bevidste. Deres signalering, sansning og reaktion på skade er biologiske processer - men ikke et bevis for en bevidst oplevelse af verden.
 
-————————————————-
-# AFSNIT 3
 ## Bevidsthed, hjernen og bevægelse
 Bevidsthed er tæt knyttet til evnen til at træffe beslutninger og koordinere komplekse bevægelser. Forskning tyder på, at en af hjernens primære funktioner netop er at koordinere motorfunktioner, altså at kontrollere kroppens bevægelser. Denne evne kræver ikke kun sanseindtryk, men også en central struktur—hjernen—til at bearbejde information og tage beslutninger i realtid. Det er her, vi ser forbindelsen mellem udviklingen af hjernen, kompleks bevægelse, og bevidsthed.
 Hos dyr har udviklingen af komplekse nervesystemer, især hjernen, gjort det muligt at styre hurtige og præcise bevægelser. Når et dyr skal flygte fra en trussel eller jage et bytte, kræver det en øjeblikkelig integration af sanseindtryk og motoriske reaktioner. Bevidsthed spiller her en central rolle ved at samle information fra forskellige sanser og koordinere de mest hensigtsmæssige handlinger. Dette kræver en hjerne, der kan analysere og sammenfatte informationen, og det er netop denne integration, der giver grundlag for bevidst oplevelse.
