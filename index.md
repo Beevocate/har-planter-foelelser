@@ -1,31 +1,62 @@
 <style>
 .social-buttons {
   margin-bottom: 10px;
+   display: flex;
+  gap: 20px; /* Adjust spacing between buttons */
+}
+.social-buttons a {
+  margin-right: 10px; /* Add space between buttons */
 }
 .social-buttons + h1,
 .social-buttons + h2 {
   margin-top: 0;
 }
+h1 {
+  font-size: 3rem !important; /* Increase the font size */
+  font-weight: bold; /* Optionally make it bolder */
+}
+body {
+  font-family: 'Garamond', serif;
+}
+.header-overlay {
+  position: relative;
+  display: inline-block; /* Ensures the container wraps around the image */
+}
+
+.header-overlay h1 {
+  position: absolute;
+  top: 70%; /* Vertically center */
+  left: 35%; /* Horizontally center */
+  transform: translate(-50%, -50%); /* Adjust centering */
+  color: white; /* Make text visible on dark images */
+  font-size: 3rem; /* Adjust font size as needed */
+}
+
+
 </style>
 
-![](./images/cuttingstalkofplant2.jpg) 
 
 
-
-# Følende planter?
-<div class="social-buttons">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button facebook">
-    <i class="fab fa-facebook-f"></i> Share
-  </a>
-  <a href="https://twitter.com/intent/tweet?urlhttps://xn--harplanterflelser-b1b.dk/&text=Check+this+out!" target="_blank" class="social-button twitter">
-    <i class="fa-solid fa-x"></i> Tweet
-  </a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button linkedin">
-    <i class="fab fa-linkedin-in"></i> Share
-  </a>
+<div class="header-overlay">
+  <h1>Følende planter?</h1>
+  <img src="./images/plantanalysis2.jpg" alt="Small plant" />
 </div>
 
-## Hvad er bevidsthed?
+
+<div class="social-buttons">
+<p> Del: <a href="https://www.facebook.com/sharer/sharer.php?u=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button facebook">
+    <i class="fab fa-facebook-f"></i> 
+    
+  </a>
+  <a href="https://twitter.com/intent/tweet?urlhttps://xn--harplanterflelser-b1b.dk/&text=Check+this+out!" target="_blank" class="social-button twitter">
+    <i class="fa-solid fa-x"></i> 
+  </a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button linkedin">
+    <i class="fab fa-linkedin-in"></i> 
+  </a></p>
+  
+</div>
+
 Bevidsthed er i sin mest grundlæggende form evnen til at have subjektive oplevelser. Med andre ord er bevidstheden det, der gør os i stand til at føle, tænke og være opmærksomme på os selv, vores omgivelser, og relationen imellem disse. Når vi taler om bevidsthed, taler vi om evnen til at være bevidst om noget - for eksempel at være opmærksom på eksterne sanseindtryk, såsom lyde og lys, eller interne sansefænomener, såsom tanker og emotioner. Selv om bevidsthed inkluderer at kunne observere sine omgivelser og reagere på stimulus, indebærer det mere end blot automatiske reaktioner. For eksempel er en automatisk skydedør ikke bevidst, blot fordi at den registrerer, når en person nærmer sig. Bevidsthed er et komplekst fænomen, som ikke blot omhandler adfærd, men også grader af subjektivitet, opmærksomhed og evnen til at reflektere over egne oplevelser og handlinger.
 Selvom man ikke behøver at diskutere, hvorvidt en sensor til en skydedør er bevidst eller ej, kan spørgsmålet gøre én nysgerrig omkring, hvad det egentlig er, der gør bevidsthed muligt. For at forstå bevidsthed, skal vi først se på, hvad forskere mener er nødvendigt for, at det kan opstå:
 
