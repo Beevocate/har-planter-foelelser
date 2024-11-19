@@ -62,10 +62,10 @@ body {
 
 
 <div class="header-overlay">
-  <h1>Følende planter?</h1>
   <img src="./images/plantanalysis2.jpg" alt="Small plant" />
 </div>
 
+# Følende planter?
 
 <div class="social-buttons">
 <p> Del: <a href="https://www.facebook.com/sharer/sharer.php?u=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button facebook">
@@ -131,9 +131,11 @@ Kort sagt: Mens bevidsthed hos dyr hænger tæt sammen med behovet for at koordi
 Bevidsthed er et komplekst fænomen, der kræver et centraliseret nervesystem, evnen til at integrere sanseinformation, samt opmærksomhed og beslutningstagning. Disse funktioner er tæt forbundet med hjernens primære rolle i at koordinere komplekse bevægelser, som vi ser hos dyr. Bevidsthed udviklede sig som en evolutionær nødvendighed for at håndtere dynamiske og komplekse situationer, hvor hurtige beslutninger om bevægelse er afgørende.
 Planter, der er stationære og ikke har brug for at træffe øjeblikkelige beslutninger, har hverken nervesystem, hjerne eller bevidsthed. Deres automatiske reaktioner på stimuli er imponerende, men de mangler subjektive oplevelser og evnen til at bearbejde information på et bevidst niveau. Derfor er planter biologisk tilpasset til deres miljø, uden at have behov for en bevidsthed, som vi kender den fra dyr og mennesker.
 
+<!-- 
 ## Læs mere
 <div class="button-container">
   <a href="/page1" class="button">Misforståelser om planter</a>
   <a href="/page2" class="button">Dyr og bevisthed</a>
   <a href="/references" class="button">Referencer</a>
 </div>
+-->
