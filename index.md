@@ -23,7 +23,7 @@ body {
   display: inline-block; /* Ensures the container wraps around the image */
 }
 .vp-doc h2 {
-    margin-top: 16px;
+    margin-top: 16px !important;
 }
 
 .header-overlay h1 {
