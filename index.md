@@ -1,8 +1,8 @@
 <style>
 .social-buttons {
-  margin-bottom: 10px;
-   display: flex;
-  gap: 20px; /* Adjust spacing between buttons */
+ display: flex;
+  gap: 20px; /* Adjust spacing between buttons */  
+  margin-bottom: -20px;
 }
 .social-buttons a {
   margin-right: 10px; /* Add space between buttons */
@@ -31,6 +31,30 @@ body {
   color: white; /* Make text visible on dark images */
   font-size: 3rem; /* Adjust font size as needed */
 }
+.vp-doc h2{
+    border-top: none;
+}
+.button-container {
+  display: flex;
+  gap: 15px; /* Spacing between buttons */
+  margin-top: 20px; /* Add spacing above the container */
+  justify-content: center; /* Center the buttons */
+}
+
+.button-container .button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  background-color: gray; /* Blue background */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s;
+}
+
+.button-container .button:hover {
+  background-color: darkgray; /* Darker blue on hover */
+}
 
 
 </style>
@@ -54,8 +78,8 @@ body {
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://xn--harplanterflelser-b1b.dk/" target="_blank" class="social-button linkedin">
     <i class="fab fa-linkedin-in"></i> 
   </a></p>
-  
 </div>
+<p style="font-weight: bold"> Skrevet af foreningen: Etik og planter </p>
 
 Bevidsthed er i sin mest grundlæggende form evnen til at have subjektive oplevelser. Med andre ord er bevidstheden det, der gør os i stand til at føle, tænke og være opmærksomme på os selv, vores omgivelser, og relationen imellem disse. Når vi taler om bevidsthed, taler vi om evnen til at være bevidst om noget - for eksempel at være opmærksom på eksterne sanseindtryk, såsom lyde og lys, eller interne sansefænomener, såsom tanker og emotioner. Selv om bevidsthed inkluderer at kunne observere sine omgivelser og reagere på stimulus, indebærer det mere end blot automatiske reaktioner. For eksempel er en automatisk skydedør ikke bevidst, blot fordi at den registrerer, når en person nærmer sig. Bevidsthed er et komplekst fænomen, som ikke blot omhandler adfærd, men også grader af subjektivitet, opmærksomhed og evnen til at reflektere over egne oplevelser og handlinger.
 Selvom man ikke behøver at diskutere, hvorvidt en sensor til en skydedør er bevidst eller ej, kan spørgsmålet gøre én nysgerrig omkring, hvad det egentlig er, der gør bevidsthed muligt. For at forstå bevidsthed, skal vi først se på, hvad forskere mener er nødvendigt for, at det kan opstå:
@@ -106,3 +130,10 @@ Kort sagt: Mens bevidsthed hos dyr hænger tæt sammen med behovet for at koordi
 ## Manglende subjektive oplevelser
 Bevidsthed er et komplekst fænomen, der kræver et centraliseret nervesystem, evnen til at integrere sanseinformation, samt opmærksomhed og beslutningstagning. Disse funktioner er tæt forbundet med hjernens primære rolle i at koordinere komplekse bevægelser, som vi ser hos dyr. Bevidsthed udviklede sig som en evolutionær nødvendighed for at håndtere dynamiske og komplekse situationer, hvor hurtige beslutninger om bevægelse er afgørende.
 Planter, der er stationære og ikke har brug for at træffe øjeblikkelige beslutninger, har hverken nervesystem, hjerne eller bevidsthed. Deres automatiske reaktioner på stimuli er imponerende, men de mangler subjektive oplevelser og evnen til at bearbejde information på et bevidst niveau. Derfor er planter biologisk tilpasset til deres miljø, uden at have behov for en bevidsthed, som vi kender den fra dyr og mennesker.
+
+## Læs mere
+<div class="button-container">
+  <a href="/page1" class="button">Misforståelser om planter</a>
+  <a href="/page2" class="button">Dyr og bevisthed</a>
+  <a href="/references" class="button">Referencer</a>
+</div>
