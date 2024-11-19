@@ -32,7 +32,7 @@ body {
   font-size: 3rem; /* Adjust font size as needed */
 }
 .vp-doc h2{
-    border-top: none;
+    border-top: none !important;
 }
 .button-container {
   display: flex;
