@@ -22,6 +22,9 @@ body {
   position: relative;
   display: inline-block; /* Ensures the container wraps around the image */
 }
+.vp-doc h2 {
+    margin-top: 16px;
+}
 
 .header-overlay h1 {
   position: absolute;
@@ -84,6 +87,7 @@ body {
 Bevidsthed er i sin mest grundlæggende form evnen til at have subjektive oplevelser. Med andre ord er bevidstheden det, der gør os i stand til at føle, tænke og være opmærksomme på os selv, vores omgivelser, og relationen imellem disse. Når vi taler om bevidsthed, taler vi om evnen til at være bevidst om noget - for eksempel at være opmærksom på eksterne sanseindtryk, såsom lyde og lys, eller interne sansefænomener, såsom tanker og emotioner. Selv om bevidsthed inkluderer at kunne observere sine omgivelser og reagere på stimulus, indebærer det mere end blot automatiske reaktioner. For eksempel er en automatisk skydedør ikke bevidst, blot fordi at den registrerer, når en person nærmer sig. Bevidsthed er et komplekst fænomen, som ikke blot omhandler adfærd, men også grader af subjektivitet, opmærksomhed og evnen til at reflektere over egne oplevelser og handlinger.
 Selvom man ikke behøver at diskutere, hvorvidt en sensor til en skydedør er bevidst eller ej, kan spørgsmålet gøre én nysgerrig omkring, hvad det egentlig er, der gør bevidsthed muligt. For at forstå bevidsthed, skal vi først se på, hvad forskere mener er nødvendigt for, at det kan opstå:
 
+![](./images/robotarms.jpg)
 ### Forudsætninger for bevidsthed
 Et centraliseret nervesystem: Bevidsthed kræver en kompleks struktur til at bearbejde og integrere information. Hos dyr, herunder mennesker, er dette system hjernen og det centrale nervesystem. Hjernen samler sanseinformation fra vores omgivelser - som lyde, synsindtryk og berøringer - og bearbejder det til en forståelig helhed. Uden et sådant system ville bevidsthed, som vi kender det, sandsynligvis ikke kunne eksistere. Planter har ingen hjerne eller nervesystem, og det er en af de vigtigste grunde til, at de ikke kan siges at være bevidste.
 Integration af information: Bevidsthed kræver, at en organisme kan samle og forbinde forskellige typer information på én gang. For eksempel oplever vi ikke verden som en samling af enkeltdele (lyd, lys, temperatur, etc.), men som en sammenhængende oplevelse. Dette kræver komplekse forbindelser i hjernen, som forbinder og bearbejder sanseindtryk i realtid. Hos planter er der ingen tegn på, at de kan integrere information på denne måde—de reagerer “mekanisk” på forskellige stimuli, men de oplever det ikke som en bevidst helhed.
@@ -94,7 +98,6 @@ Selvom planter har fascinerende evner på det biokemiske og fysiologiske plan, s
 Kort sagt: Bevidsthed kræver et komplekst netværk af neuroner, der kan samle og bearbejde sanseindtryk og skabe en sammenhængende oplevelse af verden. Da planter mangler disse strukturer, er de højst sandsynligt ikke bevidste, selv om de kan udvise imponerende reaktioner på deres miljø.
 
 ![](./images/smokealarm2.jpg)
-## Kompleks adfærd er ikke det samme som bevidsthed
 ### Planter “kommunikerer” ikke som dyr
 Når vi hører ordet “kommunikation,” tænker vi typisk på samtaler mellem mennesker eller dyr, der udveksler signaler og lyde for at overføre information. Men når forskere siger, at planter "kommunikerer," mener de noget helt andet. Planter udsender kemiske signaler til deres omgivelser som svar på forskellige stimuli, som f.eks. skader eller angreb fra insekter. Denne form for signalering er automatisk og kræver ikke bevidsthed.
 For eksempel kan en plante frigive kemikalier i luften for at signalere til andre planter, at den bliver beskadiget, så deres forsvarsmekanismer aktiveres. Men dette er en automatisk biokemisk proces, og ikke en overlagt beslutning, som når vi mennesker bevidst vælger at fortælle noget til en anden person. Faktisk ses denne form for kemisk signalering og “aflytning” også hos bakterier og encellede organismer - og vi ville ikke påstå, at disse er bevidste eller har tanker.
